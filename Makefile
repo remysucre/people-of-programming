@@ -3,5 +3,8 @@ PANDOC_OPTIONS := -V maxwidth=680px \
                   -V linestretch=1.6 \
                   -M pagetitle="Declaration by the People of Programming"
 
-index.html: index.md
-	pandoc -s -o $@ $(PANDOC_OPTIONS) $<
+# Signatures collected on the mirrors (git submodules under mirrors/)
+SIGNATURES := $(wildcard mirrors/*/signature.md)
+
+index.html: index.md $(SIGNATURES)
+	pandoc -s -o $@ $(PANDOC_OPTIONS) $^

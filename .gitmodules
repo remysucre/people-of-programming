@@ -1,0 +1,8 @@
+[submodule "mirrors/sourcehut"]
+	path = mirrors/sourcehut
+	url = https://git.sr.ht/~remyw/pofp-sh
+	branch = main
+[submodule "mirrors/codeberg"]
+	path = mirrors/codeberg
+	url = https://codeberg.org/remywang/pofp-cb.git
+	branch = main

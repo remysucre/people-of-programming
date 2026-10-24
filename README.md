@@ -34,6 +34,10 @@ Please note we are focusing on the parts of computing that are not AI;
 GitHub has many issues, but most programmers understand how to use it.
 At this early stage, we want to reduce the friction for people to join.
 
-We have also set up a [mirror](https://git.sr.ht/~remyw/people-of-programming)
- at sourcehut where you can send patches without an account using
- [git send-mail](https://git-send-email.io).
+If you prefer not to use GitHub, you can also sign on our mirrors at
+ [sourcehut](https://git.sr.ht/~remyw/pofp-sh)
+ (by sending a patch with [git send-email](https://git-send-email.io), no account required)
+ or [Codeberg](https://codeberg.org/remywang/pofp-cb).
+Signatures there go into `signature.md`;
+ the mirrors are included here as submodules under `mirrors/`
+ and their signatures are appended to the declaration when the website is built.
