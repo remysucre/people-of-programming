@@ -31,13 +31,6 @@ Please note we are focusing on the parts of computing that are not AI;
 
 > Why GitHub?
 
-GitHub has many issues, but most programmers understand how to use it.
-At this early stage, we want to reduce the friction for people to join.
-
-If you prefer not to use GitHub, you can also sign on our mirrors at
- [sourcehut](https://git.sr.ht/~remyw/pofp-sh)
- (by sending a patch with [git send-email](https://git-send-email.io), no account required)
- or [Codeberg](https://codeberg.org/remywang/pofp-cb).
-Signatures there go into `signature.md`;
- the mirrors are included here as submodules under `mirrors/`
- and their signatures are appended to the declaration when the website is built.
+We have set up submodules at [Codeberg](https://codeberg.org/remywang/pofp-cb)
+ and [sourcehut](https://git.sr.ht/~remyw/pofp-sh);
+ for the latter, you can send a patch without an account using [git send-email](https://git-send-email.io).
