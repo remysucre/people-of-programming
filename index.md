@@ -47,5 +47,6 @@ Most importantly, we will continue to support each other, as People of Programmi
 [James You](https://james.rip) (PhD, U. Waterloo)\
 [Oliver Greer](https://github.com/Oliver-Greer) (Undergraduate, UC Berkeley)\
 [Cheng Zhang](https://czhang03.codeberg.page/) (Assistant Professor, Worcester Polytechnic Institute)\
+[Leni Aniva](https://leni.sh)(PhD, Stanford)\
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
