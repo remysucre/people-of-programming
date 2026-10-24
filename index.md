@@ -37,6 +37,10 @@ But because we are a minority, our voices are being drowned out by
 We will continue to do so, even if the computer programs have nothing to do with AI.
 Most importantly, we will continue to support each other, as People of Programming.
 
+*This is an early working draft, and we will continue to update the content based on feedback.
+ we will try hard to preserve the spirit of the original declaration,
+ but if you disagree with a revision, we respect your decision to retract your signature.*
+
 [**Add your signature**](https://github.com/remysucre/people-of-programming)
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
