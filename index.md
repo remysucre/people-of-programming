@@ -15,7 +15,7 @@ Across all organizations spanning industry, government, academia, and independen
 People controlling resources in computing---people who benefited from our work
  to accumulate such resources---have abandoned us.
 
-**We do not need those people, as long as we can find and support each other**.
+This project aims to advocate the value of computation beyond AI and build communities through such advocacy.
 We believe People of Programming persist at all levels of the computing world:
  there are users who still want to use computer programs,
  there are students who still want to study computer programs,
