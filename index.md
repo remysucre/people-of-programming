@@ -52,5 +52,6 @@ Most importantly, we will continue to support each other, as People of Programmi
 [Oliver Greer](https://github.com/Oliver-Greer) (Undergraduate, UC Berkeley)\
 [Cheng Zhang](https://czhang03.codeberg.page/) (Assistant Professor, Worcester Polytechnic Institute)\
 [Leni Aniva](https://leni.sh)(PhD, Stanford)\
+[Nina Lu](https://github.com/unknown-xy0086)(Undergraduate, UC Berkeley)\
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
