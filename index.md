@@ -41,7 +41,9 @@ Most importantly, we will continue to support each other, as People of Programmi
  we will try hard to preserve the spirit of the original declaration,
  but if you disagree with a revision, we respect your decision to retract your signature.*
 
-[**Add your signature**](https://github.com/remysucre/people-of-programming)
+**Add your signature**: [GitHub](https://github.com/remysucre/people-of-programming),
+ [Codeberg](https://codeberg.org/remywang/pofp-cb),
+ [sourcehut](https://git.sr.ht/~remyw/pofp-sh)
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
 
