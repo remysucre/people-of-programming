@@ -55,5 +55,7 @@ Most importantly, we will continue to support each other, as People of Programmi
 [Cheng Zhang](https://czhang03.codeberg.page/) (Assistant Professor, Worcester Polytechnic Institute)\
 [Leni Aniva](https://leni.sh)(PhD, Stanford)\
 [Nina Lu](https://github.com/unknown-xy0086)(Undergraduate, UC Berkeley)\
+[Xinyu Yang](https://github.com/panayang/)(Apich R&D Lab)\
+
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
