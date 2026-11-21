@@ -56,6 +56,7 @@ Most importantly, we will continue to support each other, as People of Programmi
 [Leni Aniva](https://leni.sh)(PhD, Stanford)\
 [Nina Lu](https://github.com/unknown-xy0086)(Undergraduate, UC Berkeley)\
 [Xinyu Yang](https://github.com/panayang/)(Apich R&D Lab)\
+[Edward Lee](https://cmsweb.utsc.utoronto.ca/~leeedw12) (assistant professor, teaching stream, U. Toronto)\
 
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
